@@ -261,7 +261,7 @@ Vēl Vārnu ielas grupas izmēģināja roku Ventspils vokzālē, Maskavā, kauj�
 
 Vārnu ielas republika tad mira. Vārnu ielas republikāņu saime cīņās dzīvoja tālāk. Un cīņās ar savu krūti aizsedza jauno republiku.
 
-Kinematografs.
+## Kinematografs.
 
 ### 1.
 
@@ -699,7 +699,7 @@ Kad mēs iznācām uz trepēm, ieraudzījām stāvam divus chunchuzus starp krū
 
 Mums netikās runāt, jo 10 kapeiku par divi seansiem, no kuŗiem redzēts tik maz, bez šaubām, bij par dārgu. Klusēdami mēs gājām, arvienu soļus paātrinādami, pa ļaužu pārpilno Suvorova ielu, gar smirdošajām mājvietām un sudrabā mirdzošajām vitrīnām, pa zaļo koku apakšu, cauri kungu pilsētai, — turp, kur pelēkā tālē, pašā ielas galā savu dzīvi dzīvoja smilšainā nomale, mūsu Rīga.
 
-Trīs plakani zukseŗi.
+## Trīs plakani zukseŗi.
 
 ### 1.
 
