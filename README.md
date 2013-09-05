@@ -3,7 +3,7 @@ laacz/lit
 
 Šeit es izvietošu labsirdības uzplūdos satīrītos un mārkdaunotos latviešu literāros darbus.
 
-* [Jānis Grīziņš "Vārnu ielas republika". 1929. gada izdevums](docs/varnu-ielas-republika-1929.md)
+* [Jānis Grīziņš "Vārnu ielas republika". 1929. gada izdevums](docs/varnu-ielas-republika-1929.md) Šī versija, pretēji šķietamajam, ir rediģēta. 1929. gadā izdevējs pabaidījās publicēt pilno tekstu, jo tas bija pārlieku politiski neērts. Tāpēc, lai cik tas nebūtu dīvaini, tieši pēckara versijas teksts ir vistuvāk oriģinālam un satur daļas, kuras pirmskara versijā netika publicētas.
 
 Līdzdalība
 ----------
